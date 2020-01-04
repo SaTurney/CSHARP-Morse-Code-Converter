@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
